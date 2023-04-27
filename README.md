@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz]() Front-End Eğitiminde oluşturduğumuz ilk repo. İçeris
 
 Öncelikler projeyi clonelayın. ()
 
-'git clone'
+'' git clone https://github.com/miraytheone/kodluyoruzilkrepo ''
 
 ## Usage
 
@@ -14,7 +14,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-'cd kodluyoruzilkrepo
+' cd kodluyoruzilkrepo
 code . '
 
 ## Contributing
